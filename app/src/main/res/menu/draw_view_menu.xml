@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/LogOut" android:title="Logout" android:icon="@drawable/ic_logout"/>
+    <item android:id="@+id/changeName" android:title="Change Name" android:icon="@drawable/ic_name"/>
+    <item android:id="@+id/changeEmail" android:title="Change Email" android:icon="@drawable/ic_email"/>
+    <item android:id="@+id/changePassword" android:title="Change Password" android:icon="@drawable/ic_lock"/>
+</menu>
